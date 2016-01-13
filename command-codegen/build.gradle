@@ -1,0 +1,4 @@
+dependencies {
+    compile 'com.squareup:javapoet:1.4.0'
+    compile project(':command')
+}
